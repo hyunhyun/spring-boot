@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=spring-boot/C:\/Users\/HP\/.gradle\/caches\/modules-2\/files-2.1\/org.springframework.data\/spring-data-jpa\/2.2.6.RELEASE\/a9a91471f3145f4e037db81c02572587358671f5\/spring-data-jpa-2.2.6.RELEASE.jar=/gradle_used_by_scope=/main,test=/&lt;org.springframework.data.jpa.domain(AbstractPersistable.class[AbstractPersistable" modifiers="1057" timestamp="1585475486583"/>
+<typeInfo handle="=spring-boot/C:\/Users\/HP\/.gradle\/caches\/modules-2\/files-2.1\/org.springframework.data\/spring-data-jpa\/2.2.6.RELEASE\/a9a91471f3145f4e037db81c02572587358671f5\/spring-data-jpa-2.2.6.RELEASE.jar=/gradle_used_by_scope=/main,test=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1585475486583"/>
+<typeInfo handle="=spring-boot/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.example.spring.service{BookService.java[BookService" modifiers="513" timestamp="1585549151988"/>
+</typeInfoHistroy>

@@ -1,0 +1,15 @@
+package com.example.spring.service;
+
+import java.util.Optional;
+
+import com.example.spring.domain.Book;
+
+public class BookServiceImpl implements BookService {
+
+	@Override
+	public Optional<Book> findById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

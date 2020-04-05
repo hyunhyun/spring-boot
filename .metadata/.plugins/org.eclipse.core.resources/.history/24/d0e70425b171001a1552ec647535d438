@@ -1,0 +1,7 @@
+package domain;
+
+import org.springframework.data.jpa.domain.AbstractPersistable;
+
+public class Book extends AbstractPersistable<PK> {
+
+}
